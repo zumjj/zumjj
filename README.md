@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/zumjj/zumjj/blob/main/9463ec49eb5d4808f3ce0cbf5bd47f7e.jpg?raw=true">
+
 <!--
 **zumjj/zumjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
